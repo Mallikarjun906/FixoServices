@@ -1,0 +1,5 @@
+- [x] Add pending admin requests section to Admin.tsx UI
+- [x] Implement approveAdminRequest function
+- [x] Implement rejectAdminRequest function
+- [x] Update state after approve/reject actions
+- [ ] Test the functionality
